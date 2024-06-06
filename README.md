@@ -2,5 +2,5 @@
 <img src="docs/images/banner.png" height="200" align="center">
 </p>
 
-# Minicurso-Introducao-Simulacao-Robotica
+# Minicurso Introducao Simulacao Robotica: Robótica Móvel com CoppeliaSim
 Repositório dedicado ao apoio do Minicurso de Introdução à Simuladores Robóticos com aplicações em Robótica Móvel fornecido pelo Capítulo Técnico IEEE RAS UFCG
