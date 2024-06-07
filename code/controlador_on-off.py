@@ -19,7 +19,7 @@ sim.setJointTargetVelocity(motorHandle, motorVelocity)
 robotPos = sim.getObjectPosition(robotHandle, -1)
 
 # Definindo o ângulo máximo que o meu volante consegue virar
-maxSteer = np.deg2rad(20)
+maxSteer = np.deg2rad(5)
 
 sim.startSimulation()
 

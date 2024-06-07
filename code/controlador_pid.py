@@ -51,7 +51,7 @@ while (t := sim.getSimulationTime()) < 20:
     # kp = .095 kd = .95 ki = .0001 -> valores testados para o controlador
 
     # Proporcional
-    kp = .095
+    kp = .1
     up = kp*error
         
     # Derivativo
